@@ -1,0 +1,7 @@
+geopandas==1.0.0
+matplotlib==3.8.0
+numpy==1.24.3
+pandas==2.0.1
+squarify==0.4.5
+shapely==2.0.1
+pyinstaller==6.0
